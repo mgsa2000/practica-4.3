@@ -23,6 +23,7 @@ Nombre de la instancia: backend
 
 Ejercicio 3
 Crea un script para crear la infraestructura de la práctica propuesta por el profesor.
-![](imagenes/3.png)
+![](imagenes/3a.png)
 
 Crea un script para eliminar la infraestructura de la práctica propuesta por el profesor.
+![](imagenes/3b.png)
